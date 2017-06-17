@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`jest-snapshot-serializer-function-name works for anonymous functions 1`] = `[Function anonymous]`;
+
+exports[`jest-snapshot-serializer-function-name works for anonymous functions that were given a name later 1`] = `[Function new name]`;
+
+exports[`jest-snapshot-serializer-function-name works for named arrow function expressions 1`] = `[Function namedArrowExpression]`;
+
+exports[`jest-snapshot-serializer-function-name works for named function declarations 1`] = `[Function namedDeclaration]`;
+
+exports[`jest-snapshot-serializer-function-name works for named function expressions 1`] = `[Function namedExpression]`;
