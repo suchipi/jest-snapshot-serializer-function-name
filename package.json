@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^20.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suchipi/jest-snapshot-serializer-function-name"
+  },
+  "bugs": {
+    "url": "https://github.com/suchipi/jest-snapshot-serializer-function-name/issues"
+  },
+  "homepage": "https://github.com/suchipi/jest-snapshot-serializer-function-name"
 }
