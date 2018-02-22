@@ -1,6 +1,6 @@
 {
   "name": "jest-snapshot-serializer-function-name",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jest snapshot serializer that adds function names to snapshots",
   "main": "index.js",
   "scripts": {
